@@ -24,14 +24,5 @@ Proyek ini bertujuan untuk membangun sistem pemantauan otomatis berbasis IoT men
 3. **Pengiriman Data:** Data dikirimkan ke **ThingSpeak** untuk dipantau secara real-time.
 4. **Notifikasi Visual & Audio:** LED menyala dan buzzer berbunyi sesuai kondisi kelembaban tanah.
 
-## Instalasi dan Penggunaan
-1. **Unduh kode sumber** dari repositori ini.
-2. **Hubungkan ESP32 ke jaringan WiFi** dengan mengganti `ssid` dan `password` dalam kode.
-3. **Upload kode ke ESP32** menggunakan Arduino IDE.
-4. **Buka ThingSpeak** untuk melihat data sensor secara real-time.
-
-## Repositori GitHub
-Kode sumber proyek ini dapat diakses di: [GitHub Repository](https://github.com/username/smart-farming-iot) (Ganti dengan repositori Anda).
-
 ## Video Demo
-Tonton cara kerja alat ini melalui video berikut: [Video Demo](https://youtu.be/demo-video) (Ganti dengan link video Anda).
+Tonton cara kerja alat ini melalui video berikut: https://youtu.be/hXLGQU9Hw9g?si=YMW_qayu5fx_RhYl
